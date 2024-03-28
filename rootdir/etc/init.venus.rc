@@ -6,3 +6,4 @@
 
 on boot
     setprop bluetooth.device.default_name "Mi 11"
+    setprop vendor.usb.product_string "Mi 11"
